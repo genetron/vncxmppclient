@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="smackx.jar" sourcepath="/vnc2xmpp/lib/source.zip"/>
+	<classpathentry kind="lib" path="smackx-debug.jar" sourcepath="/vnc2xmpp/lib/source.zip"/>
+	<classpathentry kind="lib" path="smack.jar" sourcepath="/vnc2xmpp/lib/source.zip"/>
+	<classpathentry kind="lib" path="smackx-jingle.jar" sourcepath="/vnc2xmpp/lib/source.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
